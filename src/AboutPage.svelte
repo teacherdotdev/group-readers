@@ -85,8 +85,8 @@
   <section class="info-card">
     <h2>Feedback &amp; ideas</h2>
     <p>Tell us what's working, what's not, or what would make Group Readers more useful in your classroom.</p>
-    <a class="button primary" href="mailto:support@groupreaders.com?subject=Group%20Readers%20feedback">
-      Email support@groupreaders.com
+    <a class="button primary" href="mailto:support@teacher.dev?subject=Group%20Readers%20feedback">
+      Email support@teacher.dev
     </a>
   </section>
 </InfoPage>

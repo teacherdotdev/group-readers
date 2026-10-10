@@ -13,6 +13,6 @@
   <nav>
     <a href="/about">About</a>
     <a href="/privacy">Privacy</a>
-    <a href="mailto:support@groupreaders.com?subject=Group%20Readers%20Support">Support</a>
+    <a href="mailto:support@teacher.dev?subject=Group%20Readers%20Support">Support</a>
   </nav>
 </footer>

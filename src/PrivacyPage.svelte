@@ -67,8 +67,8 @@
   <section class="info-card">
     <h2>Questions or concerns?</h2>
     <p>Ask us anything about this page or how Group Readers handles classroom information.</p>
-    <a class="button primary" href="mailto:support@groupreaders.com?subject=Group%20Readers%20privacy">
-      Email support@groupreaders.com
+    <a class="button primary" href="mailto:support@teacher.dev?subject=Group%20Readers%20privacy">
+      Email support@teacher.dev
     </a>
   </section>
 </InfoPage>
